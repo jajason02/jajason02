@@ -52,7 +52,7 @@
 | [`Baekjoon/`](https://github.com/jajason02/algorithm/tree/master/baekjoon) | 백준 온라인 저지 문제 풀이 |
 | [`Programmers/`](https://github.com/jajason02/algorithm/tree/master/programmers) | 프로그래머스 레벨별 풀이 |
 | [`SWEA/`](https://github.com/jajason02/algorithm/tree/master/SWEA) | SW Expert Academy 문제 풀이 |
-| [`Concepts/`](https://github.com/jajason02/algorithm/tree/master/Concepts) | 알고리즘 이론 정리 (DFS/BFS, DP, Greedy 등) |
+| [`basics/`](https://github.com/jajason02/algorithm/tree/master/basics) | 알고리즘 이론 정리 (DFS/BFS, DP, Greedy 등) |
 | [`algoalgo_arena/`](https://github.com/jajason02/algorithm/tree/master/algoalgo_arena) | 알고알고 스터디 문제 풀이 |
 
 ---
