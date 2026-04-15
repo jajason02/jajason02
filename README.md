@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hey, I'm <a href="https://github.com/jajason02">Jaehyeon Park</a>
+  Hey, I'm <a href="https://github.com/jajason02">Jaehyeon Park</a>
 </h1>
 
 <p align="center">
@@ -14,19 +14,19 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎯 현재 목표: **SWEA B형 취득**
-- 🐍 주력 언어: **Python**
-- 🌱 관심 분야: **Algorithm**, **Web Development**, **AI/ML**
-- 📖 꾸준히 알고리즘 문제를 풀며 성장 중입니다
+- 현재 목표: **SWEA B형 취득**, **취직**
+- 주력 언어: **Python**
+- 관심 분야: **Algorithm**, **Web Development**, **AI/ML**
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -42,10 +42,10 @@
 
 ---
 
-## 📂 Repositories
+## Repositories
 
-### 🧮 [Algorithm](https://github.com/jajason02/algorithm)
-> 알고리즘 문제 풀이 및 개념 정리 (Python) — *133 commits*
+### [Algorithm](https://github.com/jajason02/algorithm)
+알고리즘 문제 풀이 및 개념 정리 (Python)
 
 | 폴더 | 설명 |
 |:---|:---|
@@ -57,8 +57,8 @@
 
 ---
 
-### 🌐 [Web](https://github.com/jajason02/web)
-> 웹 프론트엔드 학습 (HTML/CSS)
+### [Web](https://github.com/jajason02/web)
+웹 프론트엔드 학습 (HTML/CSS)
 
 | 폴더 | 설명 |
 |:---|:---|
@@ -66,8 +66,18 @@
 
 ---
 
-### 🤖 [AI](https://github.com/jajason02/ai)
-> 인공지능 개념 정리 및 학습
+### [Django](https://github.com/jajason02/django)
+Django 백엔드 학습 및 프로젝트 실습
+
+| 폴더 | 설명 |
+|:---|:---|
+| [`basics/`](https://github.com/jajason02/django/tree/master/basics) | Django 기초 개념 및 실습 |
+| [`projects/`](https://github.com/jajason02/django/tree/master/projects) | 미니 프로젝트 모음 |
+
+---
+
+### [AI](https://github.com/jajason02/ai)
+인공지능 개념 정리 및 학습
 
 | 폴더 | 설명 |
 |:---|:---|
@@ -75,7 +85,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jajason02&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
@@ -84,11 +94,11 @@
 
 ---
 
-## 🏅 Algorithm Platforms
+## Algorithm Platforms
 
 <p>
   <a href="https://www.acmicpc.net/">
-    <img src="https://img.shields.io/badge/Baekjoon-4C98D3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgMjJoMjBMMTIgMnoiLz48L3N2Zz4=&logoColor=white" />
+    <img src="https://img.shields.io/badge/Baekjoon-4C98D3?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://programmers.co.kr/">
     <img src="https://img.shields.io/badge/Programmers-7B68EE?style=for-the-badge&logoColor=white" />
