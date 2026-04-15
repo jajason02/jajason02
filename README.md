@@ -72,7 +72,6 @@ Django 백엔드 학습 및 프로젝트 실습
 | 폴더 | 설명 |
 |:---|:---|
 | [`basics/`](https://github.com/jajason02/django/tree/master/basics) | Django 기초 개념 및 실습 |
-| [`projects/`](https://github.com/jajason02/django/tree/master/projects) | 미니 프로젝트 모음 |
 
 ---
 
