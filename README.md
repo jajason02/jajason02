@@ -81,7 +81,7 @@ Django 백엔드 학습 및 프로젝트 실습
 
 | 폴더 | 설명 |
 |:---|:---|
-| [`concept/`](https://github.com/jajason02/ai/tree/master/concept) | AI/ML 핵심 개념 노트 |
+| [`basics/`](https://github.com/jajason02/ai/tree/master/basics) | AI/ML 핵심 개념 노트 |
 
 ---
 
