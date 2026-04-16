@@ -52,35 +52,21 @@
 | [`Baekjoon/`](https://github.com/jajason02/algorithm/tree/master/baekjoon) | 백준 온라인 저지 문제 풀이 |
 | [`Programmers/`](https://github.com/jajason02/algorithm/tree/master/programmers) | 프로그래머스 레벨별 풀이 |
 | [`SWEA/`](https://github.com/jajason02/algorithm/tree/master/SWEA) | SW Expert Academy 문제 풀이 |
-| [`basics/`](https://github.com/jajason02/algorithm/tree/master/basics) | 알고리즘 이론 정리 (DFS/BFS, DP, Greedy 등) |
+| [`Concepts/`](https://github.com/jajason02/algorithm/tree/master/Concepts) | 알고리즘 이론 정리 (DFS/BFS, DP, Greedy 등) |
 | [`algoalgo_arena/`](https://github.com/jajason02/algorithm/tree/master/algoalgo_arena) | 알고알고 스터디 문제 풀이 |
 
 ---
 
-### [Web](https://github.com/jajason02/web)
-웹 프론트엔드 학습 (HTML/CSS)
+
+### [TIL](https://github.com/jajason02/til)
+공부하면서 배운 것들을 간단히 기록합니다
 
 | 폴더 | 설명 |
 |:---|:---|
-| [`html_css/`](https://github.com/jajason02/web/tree/master/html_css) | HTML & CSS 기초 학습 및 실습 |
-
----
-
-### [Django](https://github.com/jajason02/django)
-Django 백엔드 학습 및 프로젝트 실습
-
-| 폴더 | 설명 |
-|:---|:---|
-| [`basics/`](https://github.com/jajason02/django/tree/master/basics) | Django 기초 개념 및 실습 |
-
----
-
-### [AI](https://github.com/jajason02/ai)
-인공지능 개념 정리 및 학습
-
-| 폴더 | 설명 |
-|:---|:---|
-| [`basics/`](https://github.com/jajason02/ai/tree/master/basics) | AI/ML 핵심 개념 노트 |
+| [`algorithm/`](https://github.com/jajason02/til/tree/main/algorithm) | 알고리즘 개념 스니펫 |
+| [`web/`](https://github.com/jajason02/til/tree/main/web) | HTML/CSS/Bootstrap 학습 기록 |
+| [`ai/`](https://github.com/jajason02/til/tree/main/ai) | AI/ML 개념 정리 |
+| [`django/`](https://github.com/jajason02/til/tree/main/django) | Django 학습 기록 |
 
 ---
 
