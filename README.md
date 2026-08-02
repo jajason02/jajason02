@@ -45,11 +45,11 @@
 
 | 폴더 | 설명 |
 |:---|:---|
-| [`Baekjoon/`](https://github.com/jajason02/algorithm/tree/master/baekjoon) | 백준 온라인 저지 문제 풀이 |
-| [`Programmers/`](https://github.com/jajason02/algorithm/tree/master/programmers) | 프로그래머스 레벨별 풀이 |
-| [`SWEA/`](https://github.com/jajason02/algorithm/tree/master/SWEA) | SW Expert Academy 문제 풀이 |
-| [`Concepts/`](https://github.com/jajason02/algorithm/tree/master/Concepts) | 알고리즘 이론 정리 (DFS/BFS, DP, Greedy 등) |
-| [`algoalgo_arena/`](https://github.com/jajason02/algorithm/tree/master/algoalgo_arena) | 알고알고 스터디 문제 풀이 |
+| [`Baekjoon/`](https://github.com/jajason02/algorithm/tree/main/baekjoon) | 백준 온라인 저지 문제 풀이 |
+| [`Programmers/`](https://github.com/jajason02/algorithm/tree/main/programmers) | 프로그래머스 레벨별 풀이 |
+| [`SWEA/`](https://github.com/jajason02/algorithm/tree/main/SWEA) | SW Expert Academy 문제 풀이 |
+| [`Concepts/`](https://github.com/jajason02/algorithm/tree/main/Concepts) | 알고리즘 이론 정리 (DFS/BFS, DP, Greedy 등) |
+| [`algoalgo_arena/`](https://github.com/jajason02/algorithm/tree/main/algoalgo_arena) | 알고알고 스터디 문제 풀이 |
 
 ---
 
@@ -75,6 +75,20 @@
 | [`algoalgo_chatbot/`](https://github.com/jajason02/toyproject/tree/main/algoalgo_chatbot) | 스터디 출석 관리 Discord 봇 | python |
 | [`money_hero/`](https://github.com/jajason02/toyproject/tree/main/money_hero) | 스터디 출석 관리 Discord 봇 | Django, Vue.js, Gemini API |
 | [`todoapi/`](https://github.com/jajason02/toyproject/tree/main/todoapi) | 할 일 목록 만들기 | spring, MySQL |
+
+---
+
+### [Developer Playbook](https://github.com/durian98/developer-playbook)
+검증된 개발 판단, 실패 패턴, 체크리스트, AI 활용법을 정리하는 개인 플레이북
+
+| 문서 | 설명 |
+|:---|:---|
+| [`mindset/`](https://github.com/durian98/developer-playbook/tree/main/mindset) | 작업 시작 전 확인할 질문과 개발 원칙 |
+| [`prompts/`](https://github.com/durian98/developer-playbook/tree/main/prompts) | 작업 단계별 AI 활용 프롬프트 |
+| [`checklists/`](https://github.com/durian98/developer-playbook/tree/main/checklists) | 구현 전후 점검 항목 |
+| [`failure-patterns/`](https://github.com/durian98/developer-playbook/tree/main/failure-patterns) | 재현 가능한 실패 조건과 검증 관점 |
+| [`cases/`](https://github.com/durian98/developer-playbook/tree/main/cases) | 실제 경험에서 일반화한 설계 판단 |
+
 ---
 ## GitHub Stats
 
